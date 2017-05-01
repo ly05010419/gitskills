@@ -1,4 +1,2 @@
-# gitskills
-
-master
-Creating a new branch is quick and simple
+development
+Creating a new branch is quick and simple.
